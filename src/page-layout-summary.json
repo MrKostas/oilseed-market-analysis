@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Рынок масличных в РФ",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "image": 1,
+      "textbox": 2,
+      "card": 5,
+      "donutChart": 1,
+      "slicer": 2,
+      "areaChart": 4,
+      "pivotTable": 1,
+      "actionButton": 4
+    }
+  },
+  {
+    "name": "Рынок растительных масел в РФ",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "areaChart": 3,
+      "pivotTable": 1,
+      "slicer": 2,
+      "card": 5,
+      "donutChart": 1,
+      "textbox": 2,
+      "image": 1,
+      "actionButton": 2
+    }
+  },
+  {
+    "name": "Рынок растительных шротов в РФ",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "pivotTable": 1,
+      "areaChart": 3,
+      "slicer": 2,
+      "textbox": 2,
+      "image": 1,
+      "card": 5,
+      "donutChart": 1,
+      "actionButton": 2
+    }
+  },
+  {
+    "name": "Методика",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "textbox": 2,
+      "image": 1,
+      "shape": 1
+    }
+  }
+]

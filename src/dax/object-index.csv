@@ -1,0 +1,10 @@
+kind,table,name,file
+measures,Масло_регионы,Общее потребление,src/dax/measures/01-obshchee-potreblenie.dax
+measures,Масло_регионы,Импорт_масел,src/dax/measures/02-import-masel.dax
+measures,Масло_заводы,Экспорт_масла_заводы,src/dax/measures/03-eksport-masla-zavody.dax
+measures,Масло_заводы,Производство_масла,src/dax/measures/04-proizvodstvo-masla.dax
+measures,Шроты_заводы,Производство_шрота,src/dax/measures/05-proizvodstvo-shrota.dax
+measures,Шроты_регионы,Импорт_шрота,src/dax/measures/06-import-shrota.dax
+measures,Шроты_регионы,Потребление_шрота,src/dax/measures/07-potreblenie-shrota.dax
+measures,Шроты_регионы,Экспорт_шрота,src/dax/measures/08-eksport-shrota.dax
+calculated-columns,Справка_дата,Сортировка,src/dax/calculated-columns/01-sortirovka.dax

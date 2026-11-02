@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img">
+<title>Компоновка страницы Рынок масличных в РФ</title>
+<desc>Схема по метаданным PBIX. Без данных, брендинга и персональных контактов. Не скриншот отчёта.</desc>
+<rect width="1280" height="800" fill="#f7f9fb"/>
+<text x="16" y="27" font-family="Arial,sans-serif" font-size="19" fill="#203b2b">Рынок масличных в РФ</text>
+<text x="16" y="52" font-family="Arial,sans-serif" font-size="12" fill="#546572">Схема расположения визуалов • без исходных значений • не скриншот</text>
+<g transform="translate(0,70)" font-family="Arial,sans-serif">
+<rect x="19.8" y="70.7" width="121.7" height="80.6" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="26.8" y="85.7" font-size="9" fill="#354a40">KPI</text>
+<rect x="151.4" y="70.7" width="120.2" height="80.6" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="158.4" y="85.7" font-size="9" fill="#354a40">KPI</text>
+<rect x="322.5" y="70.7" width="121.7" height="80.6" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="329.5" y="85.7" font-size="9" fill="#354a40">KPI</text>
+<rect x="458.3" y="75.0" width="121.7" height="76.4" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="465.3" y="90.0" font-size="9" fill="#354a40">KPI</text>
+<rect x="242.0" y="295.1" width="120.1" height="55.5" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="249.0" y="310.1" font-size="9" fill="#354a40">KPI</text>
+<rect x="29.4" y="175.0" width="540.2" height="277.1" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="36.4" y="190.0" font-size="12" fill="#354a40">Структура: Потребление сырья по отраслям в разрезе регионов, тыс. т</text>
+<rect x="617.7" y="75.0" width="432.8" height="60.8" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="624.7" y="90.0" font-size="9" fill="#354a40">Фильтр</text>
+<rect x="1032.2" y="64.0" width="224.5" height="65.8" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="1039.2" y="79.0" font-size="9" fill="#354a40">Фильтр</text>
+<rect x="28.1" y="464.8" width="368.3" height="223.6" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="35.1" y="479.8" font-size="12" fill="#354a40">Динамика: Динамика валового сбора сырья, тыс. т</text>
+<rect x="423.7" y="465.3" width="369.3" height="224.0" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="430.7" y="480.3" font-size="12" fill="#354a40">Динамика: Динамика импорта сырья, тыс. т</text>
+<rect x="820.4" y="465.7" width="368.9" height="222.2" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="827.4" y="480.7" font-size="12" fill="#354a40">Динамика: Динамика экспорта сырья, тыс. т</text>
+<rect x="618.1" y="162.7" width="640.0" height="284.0" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="625.1" y="177.7" font-size="12" fill="#354a40">Матрица: Валовый сбор и переработка сырья в РФ, тыс. т</text>
+<rect x="458.6" y="464.4" width="723.2" height="224.1" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="465.6" y="479.4" font-size="12" fill="#354a40">Динамика: Динамика переработки сырья, тыс. т</text>
+</g></svg>

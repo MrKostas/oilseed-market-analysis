@@ -1,0 +1,13 @@
+# Local data and native reports are not part of this portfolio case.
+*.xlsx
+*.xls
+*.xlsm
+*.pbix
+*.pbit
+*.csv.local
+.env
+.env.*
+data/private/
+*.log
+.DS_Store
+Thumbs.db
